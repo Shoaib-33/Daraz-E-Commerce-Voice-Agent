@@ -1,0 +1,22 @@
+# Core
+llama-index==0.10.33
+llama-index-vector-stores-faiss==0.1.4
+faiss-cpu==1.8.0    # use faiss-gpu if you want GPU acceleration
+
+# Embeddings
+sentence-transformers==2.7.0
+
+# Voice Agent & Realtime
+livekit-agents==0.7.0
+livekit-plugins-openai==0.3.1
+livekit-plugins-deepgram==0.3.2
+livekit-plugins-cartesia==0.2.2
+
+# LLM Client
+google-generativeai==0.8.3
+
+# Data handling
+pandas==2.2.2
+
+# Utilities
+python-dotenv==1.0.1
