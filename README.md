@@ -5,6 +5,11 @@ A **real-time e-commerce voice assistant** built with
 [FAISS](https://github.com/facebookresearch/faiss) (vector search),  
 [LiveKit](https://github.com/livekit), and [Gemini](https://ai.google/) LLMs.  
 
+# Demo
+Click below to watch a sample demo
+[![Demo Video](https://img.youtube.com/vi/ahAg7CgEJxg/0.jpg)](https://www.youtube.com/watch?v=ahAg7CgEJxg)
+
+
 The agent can:
 - 🔎 Search & recommend products
 - 🛍️ Manage a shopping cart (add, remove, clear, show)
